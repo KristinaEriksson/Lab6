@@ -6,6 +6,8 @@ namespace Lab6
     {
         static void Main(string[] args)
         {
+            // Kristina Eriksson .NET 22
+
             // Object with input parameters
             Dog dog1 = new Dog("Oliwer", 8, 12.0, "brun", "lekfull", true);
             Cat cat1 = new Cat("Gissa", 12, 4.0, "vit", "gosig", 4);
